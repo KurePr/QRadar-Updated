@@ -1,4 +1,4 @@
-<h1 align="center"><QRadar getting updated! </strong></h1>
+<h1 align="center"><strong>QRadar getting update!</strong></h1>
 <span>
 <p align="center"><img src="https://github.com/RhemaFlexion/albion-radar/assets/112256804/f95b661e-8f7e-4db7-b346-04f975b1390b" /></p>
 
